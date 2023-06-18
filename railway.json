@@ -1,0 +1,12 @@
+{
+  "name": "my-backend",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "env": {
+    "PORT": "$PORT",
+    "DB_HOST": "your-database-host",
+    "DB_USER": "your-database-username",
+    "DB_PASSWORD": "your-database-password"
+  }
+}

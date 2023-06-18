@@ -1,3 +1,388 @@
 {
-    "users" : []
+  "users": [
+    {
+      "email": "delyce2002@gmail.com",
+      "password": "$2a$10$t6DlEkx1V7LarIskiYcPUe4ImLtXkeZm1MR.t6Fj6fMcSkiHNxfv6",
+      "organisationName": "test",
+      "phone": "0781093895",
+      "status": "active",
+      "isDeleted": false,
+      "username": "test",
+      "dateJoined": "June 18, 2023 at 4:28 PM",
+      "id": 1
+    },
+    {
+      "email": "delyce35@gmail.com",
+      "password": "$2a$10$wsu6y9Ka/xZ.NfWL5zIsi.bKktPpbfnCGz1W.sAF7ad7ULwqtZriy",
+      "organisationName": "jnsjsa",
+      "phone": "0781093895",
+      "status": "active",
+      "isDeleted": false,
+      "username": "admin",
+      "dateJoined": "June 18, 2023 at 4:49 PM",
+      "id": 2
+    }
+  ],
+  "lendUsers": [
+    {
+      "id": "d1bdb2d5-62db-442a-9ee1-62a46edf7408",
+      "organisationName": "Mraz Group",
+      "fullName": "Dr. Madeline Bashirian",
+      "username": "Vivien69",
+      "status": "Blacklist User",
+      "isDeleted": false,
+      "phone": "1-367-519-3793 x1128",
+      "email": "Dariana85@hotmail.com",
+      "bvn": "87463",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": "3",
+      "residence": "146 Schowalter Crest",
+      "level": "Internal Integration Specialist",
+      "employment": "Unemployed",
+      "sector": "Solutions",
+      "expertise": "3-5 years",
+      "officeEmail": "Lacy.Dare76@hotmail.com",
+      "income": "536.94",
+      "loanRepayment": "697.96",
+      "twitter": "Cheyenne.Crist",
+      "facebook": "Dorris",
+      "instagram": "Delilah_Maggio",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Candace Roob",
+          "email": "Oceane69@yahoo.com",
+          "phone": "643-204-5716 x527"
+        }
+      ]
+    },
+    {
+      "id": "1b829dce-fcd0-4180-8b68-351bf398de4e",
+      "organisationName": "Mueller, Stokes and VonRueden",
+      "fullName": "Clifford Lind",
+      "username": "Albertha.Kuvalis",
+      "status": "Blacklist user",
+      "isDeleted": false,
+      "phone": "(892) 316-6046",
+      "email": "Rollin.Hahn99@hotmail.com",
+      "bvn": "93739",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": "2",
+      "residence": "9600 Jensen Squares",
+      "level": "Investor Intranet Agent",
+      "employment": "Unemployed",
+      "sector": "Solutions",
+      "expertise": "0-1 years",
+      "officeEmail": "Walter11@gmail.com",
+      "income": "214.24",
+      "loanRepayment": "512.80",
+      "twitter": "Marty44",
+      "facebook": "Roman",
+      "instagram": "Delpha_Volkman",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Ms. Clarence Upton",
+          "email": "Alison_Waelchi94@yahoo.com",
+          "phone": "260.231.5268"
+        }
+      ]
+    },
+    {
+      "id": "eed0a843-d247-435a-925a-8f7612b11edd",
+      "organisationName": "Bauch - Rice",
+      "fullName": "Lindsey Shields MD",
+      "username": "Kaitlin.Jerde60",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "1-236-791-0063",
+      "email": "Trinity_Senger@gmail.com",
+      "bvn": "29464",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": "1",
+      "residence": "714 Pearl Valleys",
+      "level": "Future Implementation Orchestrator",
+      "employment": "Unemployed",
+      "sector": "Applications",
+      "expertise": "3-5 years",
+      "officeEmail": "Corbin.Block@hotmail.com",
+      "income": "12.14",
+      "loanRepayment": "740.11",
+      "twitter": "Justice_Lehner64",
+      "facebook": "Maria",
+      "instagram": "Royce_Graham",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Agnes Homenick",
+          "email": "John.Yundt@yahoo.com",
+          "phone": "832.242.1907 x807"
+        }
+      ]
+    },
+    {
+      "id": "d26df8f4-f14f-49a1-8ab6-4f65a356c9cc",
+      "organisationName": "Barton LLC",
+      "fullName": "Homer Morar",
+      "username": "Lilliana.Moore",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "(945) 425-1345 x1119",
+      "email": "Yasmine3@yahoo.com",
+      "bvn": "83552",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": "0",
+      "residence": "9728 Enrique Route",
+      "level": "Central Intranet Supervisor",
+      "employment": "Unemployed",
+      "sector": "Interactions",
+      "expertise": "3-5 years",
+      "officeEmail": "Mariela.Lubowitz74@yahoo.com",
+      "income": "858.37",
+      "loanRepayment": "445.76",
+      "twitter": "Enid.Orn7",
+      "facebook": "Alek",
+      "instagram": "Edwardo_Carroll",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Chester Wyman",
+          "email": "Stefanie67@gmail.com",
+          "phone": "(718) 590-5748"
+        }
+      ]
+    },
+    {
+      "id": "9496dbd3-2408-439b-9472-7dc84047e1eb",
+      "organisationName": "McClure - Ziemann",
+      "fullName": "Forrest Weber",
+      "username": "Winona.Keeling78",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "805.972.7208",
+      "email": "Niko.Wolf70@hotmail.com",
+      "bvn": "24088",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": "1",
+      "residence": "395 Wisoky Coves",
+      "level": "Chief Implementation Producer",
+      "employment": "Self-employed",
+      "sector": "Usability",
+      "expertise": "3-5 years",
+      "officeEmail": "Lori.Conn@hotmail.com",
+      "income": "844.91",
+      "loanRepayment": "515.31",
+      "twitter": "Ruby15",
+      "facebook": "Shany",
+      "instagram": "Randi72",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Jim Emard",
+          "email": "Dejuan.OKeefe13@yahoo.com",
+          "phone": "1-990-235-2120"
+        },
+        {
+          "name": "Irene Gleason DVM",
+          "email": "Zackery.Wilderman@hotmail.com",
+          "phone": "(749) 503-7593 x592"
+        },
+        {
+          "name": "James Moore",
+          "email": "Zackary.Leannon36@hotmail.com",
+          "phone": "455-241-4153 x979"
+        }
+      ]
+    },
+    {
+      "id": "5276af1a-426a-4eae-98f4-83e2f8e63f5e",
+      "organisationName": "Ryan - Ankunding",
+      "fullName": "Megan Lubowitz",
+      "username": "Layne59",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "574.462.3815",
+      "email": "Elvera60@gmail.com",
+      "bvn": "52123",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": "3",
+      "residence": "735 Fabian Parkways",
+      "level": "Dynamic Tactics Director",
+      "employment": "Employed",
+      "sector": "Integration",
+      "expertise": "1-3 years",
+      "officeEmail": "Leo.Greenholt@hotmail.com",
+      "income": "511.79",
+      "loanRepayment": "962.34",
+      "twitter": "Ubaldo80",
+      "facebook": "Amina",
+      "instagram": "Elda69",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Edgar Lockman",
+          "email": "Kendall_Schaefer@gmail.com",
+          "phone": "(543) 586-8463 x586"
+        },
+        {
+          "name": "Isabel Schoen II",
+          "email": "Emmet_Stiedemann36@hotmail.com",
+          "phone": "795.749.4094"
+        }
+      ]
+    },
+    {
+      "id": "e921b0b5-dbe6-4cbd-917d-3edb499dac08",
+      "organisationName": "Paucek - Predovic",
+      "fullName": "Lindsey Robel",
+      "username": "Alexys.McCullough",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "795.920.1777",
+      "email": "Reed.Donnelly86@yahoo.com",
+      "bvn": "66334",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": "3",
+      "residence": "461 Bernhard Prairie",
+      "level": "Principal Operations Architect",
+      "employment": "Unemployed",
+      "sector": "Branding",
+      "expertise": "1-3 years",
+      "officeEmail": "Bella83@gmail.com",
+      "income": "944.08",
+      "loanRepayment": "426.59",
+      "twitter": "Haylie.Ruecker35",
+      "facebook": "Nasir",
+      "instagram": "Hilbert64",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Natalie Robel",
+          "email": "Alexane83@hotmail.com",
+          "phone": "765.591.5524"
+        }
+      ]
+    },
+    {
+      "id": "4943b8fb-a125-4efe-89b9-4676572798a9",
+      "organisationName": "Emard, Batz and Gaylord",
+      "fullName": "Olivia Stamm Sr.",
+      "username": "Christa_OConnell60",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "1-619-645-0205",
+      "email": "Cali27@gmail.com",
+      "bvn": "96170",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": "5",
+      "residence": "251 Schuppe Points",
+      "level": "Global Division Supervisor",
+      "employment": "Unemployed",
+      "sector": "Markets",
+      "expertise": "1-3 years",
+      "officeEmail": "Rahsaan.Ondricka@gmail.com",
+      "income": "488.59",
+      "loanRepayment": "756.36",
+      "twitter": "Jaylan85",
+      "facebook": "Elizabeth",
+      "instagram": "Boris.Kohler46",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Devin Larson",
+          "email": "Bartholome60@yahoo.com",
+          "phone": "913-525-5522 x70593"
+        }
+      ]
+    },
+    {
+      "id": "6b670a48-ad62-434a-a4ea-2aefe107e209",
+      "organisationName": "Klocko - Beer",
+      "fullName": "Forrest Torp",
+      "username": "Lyla_Sporer",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "1-998-956-8094 x047",
+      "email": "Zelma_Auer@yahoo.com",
+      "bvn": "39324",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": "0",
+      "residence": "8347 Khalid Loop",
+      "level": "Customer Interactions Administrator",
+      "employment": "Unemployed",
+      "sector": "Group",
+      "expertise": "3-5 years",
+      "officeEmail": "Alysa_Gorczany0@gmail.com",
+      "income": "582.05",
+      "loanRepayment": "18.27",
+      "twitter": "Jefferey_Friesen17",
+      "facebook": "Johann",
+      "instagram": "Madelynn.Reynolds",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Olga Pagac",
+          "email": "Stella_Bednar83@gmail.com",
+          "phone": "(757) 823-1054"
+        },
+        {
+          "name": "Ramona Keebler II",
+          "email": "Gilda.Gulgowski54@yahoo.com",
+          "phone": "971.678.4457 x1896"
+        }
+      ]
+    },
+    {
+      "id": "882fd57f-da61-4488-87c7-dcefe1ed92bb",
+      "organisationName": "Dooley Group",
+      "fullName": "Felix Rice",
+      "username": "Dannie_Hansen22",
+      "status": "active",
+      "isDeleted": false,
+      "phone": "(533) 222-2311",
+      "email": "Jaunita93@gmail.com",
+      "bvn": "47087",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": "1",
+      "residence": "24233 Prince Plains",
+      "level": "Lead Intranet Strategist",
+      "employment": "Unemployed",
+      "sector": "Integration",
+      "expertise": "3-5 years",
+      "officeEmail": "Lavern69@yahoo.com",
+      "income": "427.36",
+      "loanRepayment": "447.87",
+      "twitter": "Tianna_Funk",
+      "facebook": "Sofia",
+      "instagram": "Braxton.Moen17",
+      "dateJoined": "Jun 18 2023 05:02pm",
+      "guarantor": [
+        {
+          "name": "Mr. Vicki Kiehn",
+          "email": "Mac97@hotmail.com",
+          "phone": "608.631.4373"
+        },
+        {
+          "name": "Flora Littel",
+          "email": "Florine.Mann@gmail.com",
+          "phone": "785.265.4171 x619"
+        },
+        {
+          "name": "Glen Beer",
+          "email": "Larue_Nitzsche52@yahoo.com",
+          "phone": "353.889.9929 x5808"
+        }
+      ]
+    }
+  ]
 }

@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "scripts": {
+      "start": "json-server db.json -m ./node_modules/json-server-auth --port 4000"
+    },
   "author": "",
   "license": "ISC",
   "dependencies": {
