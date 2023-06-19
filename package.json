@@ -1,16 +1,14 @@
 {
-  "name": "lendsql-be",
+  "name": "json-server-vercel",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-    "scripts": {
-      "start": "json-server db.json -m ./node_modules/json-server-auth --port 4000"
-    },
-  "author": "",
-  "license": "ISC",
+  "description": "Deploy JSON Server to Vercel",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
-    "json-server": "^0.17.3",
+    "json-server": "^0.17.0",
     "json-server-auth": "^2.1.0"
   }
 }
